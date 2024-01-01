@@ -26,7 +26,7 @@ This project requires several Python libraries. Install the following dependenci
 - **NumPy**: For numerical operations.
 - **Scikit-learn**: For clustering algorithms and evaluation metrics.
 - **Matplotlib & Seaborn**: For data visualization.
-- **Matplotlib & Seaborn**: For data visualization.
+- **Scipy**: For scientific calculations.
 
 You can install these libraries using pip:
 ```
