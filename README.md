@@ -3,7 +3,7 @@
 ## Project Description
 This project is focused on conducting a comprehensive customer segmentation analysis using various clustering techniques. It comprises two primary notebooks:
 
-- `Part1.ipynb`: This notebook covers data preprocessing, exploratory data analysis (EDA), and feature engineering. It sets the stage for the clustering analysis by preparing and exploring the dataset.
+- `Part1-dataset.ipynb`: This notebook covers data preprocessing, exploratory data analysis (EDA), and feature engineering. It sets the stage for the clustering analysis by preparing and exploring the dataset.
 
 - `Part2-modeling.ipynb`: This notebook is dedicated to the implementation of clustering algorithms. It includes the application of k-means, multiple k-means ensemble, and Meta-Clustering Ensemble Scheme (MC-EMS). The clustering results are evaluated to understand customer segments.
 
